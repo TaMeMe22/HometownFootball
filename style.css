@@ -1,0 +1,144 @@
+img{
+    width: 5%;
+}
+body{
+    background-image: url(https://www.desktopbackground.org/download/2560x1440/2012/03/19/361043_backgrounds-blue-brick-wallpapers-b55-wallpaperity-com_2880x1800_h.jpg);
+}
+.hero img{
+    width: 50%;
+}
+.hero{
+    text-align: center;
+    padding: 20px;    
+}
+.Gonzalez{
+    width: 15%;
+    float: left;
+    padding-left: 5%;
+    padding-top: 15%;  
+}
+.Gonzalez:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+
+.Burch{
+    width: 15%;
+    float: left; 
+    padding-left: -10%;
+    padding-top: 10%;    
+}
+.Burch:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+.Doyle{
+    width: 15%;
+    float: left; 
+    padding-left: -10%;     
+    padding-top: 15%;
+}
+.Doyle:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+.Hodge{
+    width: 15%;
+    float: left; 
+    padding-left: -10%; 
+    padding-top: 10%;
+}
+.Hodge:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+.Howard{
+    width: 15%;
+    float: left; 
+    padding-left: -10%;
+    padding-top: 15%; 
+}
+.Howard:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+.Segbers{
+    width: 15%;
+    float: left; 
+    padding-left: -10%;
+    padding-top: 10%;
+    padding-right: 5%;
+}
+.Segbers:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.0);
+    transition: 1s;
+}
+.Championship{
+    padding-left: 50%;
+    padding-top: 9%;
+}
+.schedule{
+    color:white;     
+    padding-left: 30%;
+    padding-top: 5%;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.main-menu{
+    float:right;
+    padding-top: 5px;
+    padding-right: 15px;    
+}
+.main-menu:link, :visited{
+    background-color: transparent;
+    color: white;
+    padding: 15px 55px 15px 15px;
+    text-decoration: none;
+    display: inline-block;
+ }
+ .main-menu:active{
+     color: purple;
+ }
+ .site{
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+ }
+ .schedulelink{
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+ }
+ .aug{
+     padding-left: 25px;
+     padding-right: 15px;
+     color: white;
+     font-weight: bold;
+ }
+ .awaygame{
+     color: yellow;
+     font-weight: bold;
+ }
+ .sep{
+    padding-left: 25px;
+    padding-right: 15px;
+    color:white;
+    font-weight: bold;
+}
+.homegame{
+    color: #13b5eb;
+    font-weight: bold;
+}
+.oct{
+    padding-left: 25px;
+    padding-right: 15px;
+    color: white;
+    font-weight: bold;
+}
